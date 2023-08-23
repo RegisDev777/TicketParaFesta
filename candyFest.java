@@ -78,7 +78,7 @@ public class candyFest {
 
 	public String recuperaDadosDoTicket() {
 		String dadodoTicket = "| PRECO:" + getPrecoDoTicket() + "        |" + "\n"
-				            + "| CODIGO:" +  proximoTicket + "                 SEJA BEM VINDO E SE DIVERTA SZ   |" + "\n"
+				            + "| CODIGO:" +  proximoTicket + "                 SEJA BEM VINDO E SE DIVERTA SZ!!   |" + "\n"
 				            + "|===========================================================|";
 		return dadodoTicket;
 	}
